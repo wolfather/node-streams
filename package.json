@@ -18,6 +18,9 @@
   "bugs": {
     "url": "https://github.com/wolfather/node-streams/issues"
   },
+  "engines": {
+    "node": "16.14.0"
+  },
   "homepage": "https://github.com/wolfather/node-streams#readme",
   "devDependencies": {
     "@jest/types": "^27.5.1",
